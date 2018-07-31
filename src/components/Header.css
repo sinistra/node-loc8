@@ -1,0 +1,20 @@
+/*.Header {*/
+    /*text-align: center;*/
+/*}*/
+
+.Logo {
+    /*animation: App-logo-spin infinite 20s linear;*/
+    height: 40px;
+    align-content: left;
+}
+
+.Header {
+    background-color: #222;
+    height: 50px;
+    padding: 2px;
+    /*color: white;*/
+}
+
+.Title {
+    font-size: 1.5em;
+}
